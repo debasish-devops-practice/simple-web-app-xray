@@ -67,7 +67,7 @@
            <filter-class>com.amazonaws.xray.javax.servlet.AWSXRayServletFilter</filter-class>
            <init-param>
              <param-name>fixedName</param-name>
-             <param-value><<CHANGE_THIS_VALUE>></param-value>
+             <param-value>simple</param-value>
            </init-param>
         </filter>
         <filter-mapping>
